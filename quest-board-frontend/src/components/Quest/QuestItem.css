@@ -1,0 +1,12 @@
+.quest-item {
+    background: #fdf6e3;
+    border: 2px solid #d2b48c;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.15), 0 0 0 8px #f5e6c4 inset;
+    padding: 32px;
+    margin: 32px auto;
+    max-width: 700px;
+    color: #5b4636;
+    /* Optional: subtle paper texture */
+    background-image: repeating-linear-gradient(135deg, #f5e6c4 0px, #f5e6c4 4px, #fdf6e3 4px, #fdf6e3 8px);
+}

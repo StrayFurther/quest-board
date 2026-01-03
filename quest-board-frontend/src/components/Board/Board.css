@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
+
+.board-container {
+    height: 100%;
+    width: 100%;
+    color: black;
+    background-color: #f5deb3; /* light wood color */
+    border: 16px solid #8b5c2a; /* dark wood border */
+    box-shadow: 0 0 6px 2px inset #d2b48c; /* inner shadow for depth */
+    border-radius: 8px;
+}
+
+.board-container button {
+    margin-bottom: 1rem;
+}

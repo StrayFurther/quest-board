@@ -1,0 +1,10 @@
+.adventurer-page__container {
+    height: 40%;
+    width: 40%;
+    color: black;
+    background-color: #f5deb3; /* light wood color */
+    border: 16px solid #8b5c2a; /* dark wood border */
+    box-shadow: 0 0 6px 2px inset #d2b48c; /* inner shadow for depth */
+    border-radius: 8px;
+    padding: 16px;
+}

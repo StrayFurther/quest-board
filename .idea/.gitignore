@@ -1,0 +1,53 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env*
+!.env.example
+
+# Build output
+dist/
+build/
+coverage/
+tmp/
+temp/
+.cache/
+.parcel-cache/
+.eslintcache
+*.tsbuildinfo
+
+# React tooling (CRA/Vite/Next/etc.)
+.cache/
+.next/
+out/
+.sass-cache/
+
+# Firebase
+.firebase/
+firestore-debug.log
+storage-debug.log
+
+# Data Connect generated code
+src/dataconnect-generated/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Misc
+logs/
+*.log
+*.pid
+*.seed
+*.pid.lock
